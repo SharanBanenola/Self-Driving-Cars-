@@ -1,6 +1,7 @@
 # Self-Driving Cars using Convolutional Neural Network
 
-<img src="https://github.com/user-attachments/assets/c80a0035-2c54-4ade-9d75-85e6f26b15b0" alt="Descriptive Image Text" width="600" height="600">
+![image](https://github.com/user-attachments/assets/07ca3d11-9df8-4e5a-a868-a48794b50abc)
+
 
 
 ## Introduction
